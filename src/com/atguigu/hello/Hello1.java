@@ -2,6 +2,6 @@ package com.atguigu.hello;
 
 public class Hello1 {
 	public static void main(String[] args) {
-		System.out.println("nihaoa  ");
+		System.out.println("nimeia");
 	}
 }
